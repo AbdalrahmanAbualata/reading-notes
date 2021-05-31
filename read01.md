@@ -16,7 +16,7 @@
 
  ![github](https://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png)
  
- ### when I can use markdown ?
+ ## **when I can use markdown ?**
  the Markdown Syntax can not fully replace a complete language such as HTML, but it makes your work much fun and easier where it is applicable, should you use it to format and convey your work information accurately.
 
 
