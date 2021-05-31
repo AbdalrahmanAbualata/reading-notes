@@ -7,7 +7,6 @@
 3. It provides good backup.
 4. you can use for many languages.
 
-  ![github](https://www.oreilly.com/library/view/angular-6-for/9781786462909/assets/c4aebec3-835d-4533-88ea-8063784d4b99.png)
 ### for more about github [press me **:)**](https://pages.github.com/)
 
 # *Markdown
