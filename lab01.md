@@ -16,5 +16,3 @@
 * **by saying to myself every time I can reach all my goals, I can do it** .
 * **by asking my self every time if I made any mistakes why I did it , what went wrong and how can I make sure it doesn’t happen again?**
 * **Believe in yourself and your abilities .**
-
- 
