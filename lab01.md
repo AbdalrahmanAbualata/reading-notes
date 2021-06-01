@@ -1,3 +1,7 @@
+## introduction 
+ Hı my name ıs Abdalrahman abu ala ata ,I'm 26 years old ,I'm a  civil engineering graduate from university of Jordan , I have a little bit knowledge in java and I'm looking forward to learn more and be a professional.
+ ***************************************
+ ***************************************
 ##    benefites of growth mindset
  1. improve the **creativity**.
  2. open pathways to possibility.
