@@ -1,4 +1,4 @@
-## introduction 
+# introduction 
  Hı my name ıs Abdalrahman abu ala ata ,I'm 26 years old ,I'm a  civil engineering graduate from university of Jordan , I have a little bit knowledge in java and I'm looking forward to learn more and be a professional.
 
 ##    benefites of growth mindset
@@ -9,7 +9,7 @@
 ## What is a growth mindset?
   you need **_perseverance_ and _effort_ to develop your abilities** and the ntelligence and talent 
   it's not the only key for achieve your goals and success , you need the love of learning to do it.
-### Here’s a simple for explain the differences between a fixed and a growth mindset:
+## Here’s a simple for explain the differences between a fixed and a growth mindset:
  ![growth mindset img](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=768%2C960&ssl=1)
  * And for more about growth mindset [press me :) . ](https://www.atlassian.com/blog/inside-atlassian/growth-mindset )
 ## I can remind myself to keep  it in a growth mindset by :
