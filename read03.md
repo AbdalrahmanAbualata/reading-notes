@@ -13,6 +13,7 @@ HTML **(Hypertext Markup Language)** is the code that is used to structure a web
 * Web document Creation
 * Internet navigation
 * Game development usage
+* etc
 
 
 

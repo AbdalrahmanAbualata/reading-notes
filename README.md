@@ -7,7 +7,7 @@
 | webpage      |  The link        |
 | -----------  | ----------- |
 | lab01     |[link](lab01) |
-| read01       | [link](read01.md)        |
+| read01       | [link](read01.md)     |
 |  read02  |  [link](read02)| 
 |  read03  |  [link](read03)| 
 
