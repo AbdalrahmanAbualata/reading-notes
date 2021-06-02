@@ -24,7 +24,7 @@ Semantics refers to the meaning of a piece and elements in coding in a different
 * figure
 * footer
 * header
- * main
+* main
 * mark
 * nav
 * article
