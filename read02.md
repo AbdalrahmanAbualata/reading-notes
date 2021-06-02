@@ -4,8 +4,6 @@ Git is the most commonly used version control system. Git tracks the changes you
 
 So regardless of whether you write code that only you will see, or work as part of a team, Git will be useful for you.
 
-![git](https://www.nobledesktop.com/image/blog/git-branches-merge.png)
-
 ## Ways to Use Git: 
 * Git is software that you can access via a command line (terminal), or a desktop app that has a **GUI** (graphical user interface).
 

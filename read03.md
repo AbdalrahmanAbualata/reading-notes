@@ -14,7 +14,7 @@ HTML **(Hypertext Markup Language)** is the code that is used to structure a web
 * Internet navigation
 * Game development usage
 * etc
-<<<<<<< HEAD
+
 ## Semantics
 Semantics refers to the meaning of a piece and elements in coding in a different programming languages(java,js,html,css) , what the elements will effect in my code when I use it.
 
