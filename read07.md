@@ -1,4 +1,4 @@
- ## Expressions
+ # Expressions
  * An expression is any valid unit of code that resolves to a value.
  * The expression x = 7 is an example of the first type. This expression uses the = operator to assign the value seven to the variable x. The expression itself evaluates to seven.
 
