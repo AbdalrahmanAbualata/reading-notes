@@ -12,3 +12,5 @@
 |  read03  |  [link](read03.md)| 
 |  read04 |  [link](read04.md)| 
 |  read05 |  [link](read05.md)|
+|  read06 |  [link](read06.md)|
+|  read07 |  [link](read07.md)|
