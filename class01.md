@@ -115,6 +115,7 @@ characters to appear on your
 page you need to use the escape codes or
 entity references like (**© =  & copy;**).
 ## HTML5 Layout
+<<<<<<< HEAD
 ### New Html5 Layout Elements
 * HTML5 introduces a new set of elements that allow you to divide up the
 parts of a page.
@@ -155,4 +156,5 @@ that needs to be on a page is
 included.
 
 ![WireFrame](https://www.freepik.com/blog/app/uploads/2019/05/how-use-wireframes-web-design-Cover-post-100.jpg)
+
 
