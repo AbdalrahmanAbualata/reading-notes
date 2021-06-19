@@ -5,7 +5,7 @@
  Is about reading notes of our calsses in 102 and 201 .
 
 
- ## Code 102 Reading Notes
+## Code 102 Reading Notes
 
 ### Table of Contents
 
@@ -27,4 +27,4 @@
 
 | webpage      |  The link        |
 | -----------  | ----------- |
-| read01       | [link](read01.md)     |
+| read21       | [link](read21.md)     |
