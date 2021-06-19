@@ -1,3 +1,4 @@
+# HTML
 ## Introduction 
 ### *  some definitions
 
@@ -46,4 +47,112 @@ title bar (or tabs) at the top of
 the browser window
 * Anything written between
 the **<body>** tags will appear
-in the main browser window
+in the main browser window .
+## Extra Markup
+### Comments in HTML
+- If you want to add a comment
+to your code that will not be
+visible in the user's browser, you
+can add the text between these
+characters:
+**<!-- comment goes here -->**
+### ID Attribute
+* Every HTML element can carry
+the id attribute. It is used to
+uniquely identify that element
+from other elements on the
+page. Its value should start with
+a letter or an underscore (not a
+number or any other character).
+It is important that no two
+elements on the same page
+have the same value for their id
+attributes (otherwise the value is
+no longer unique).
+### Class Attribute
+* Every HTML element can
+also carry a class attribute.
+Sometimes, rather than uniquely
+identifying one element within
+a document, you will want a
+way to identify several elements
+as being different from the
+other elements on the page.
+For example, you might have
+some paragraphs of text that
+contain information that is more
+important than others and want
+to distinguish these elements, or
+you might want to differentiate
+between links that point to other
+pages on your own site and links
+that point to external sites.
+### Block Elements
+* Some elements will always
+appear to start on a new line in
+the browser window. These are
+known as block level elements, Examples of block elements are
+**<h1>, <p>, <ul>, and <li>.**
+### Inline Elements
+* Some elements will always
+appear to continue on the
+same line as their neighbouring
+elements. These are known as
+inline elements, Examples of inline elements are
+** <a>, <b>, <em>, and <img>**.
+### iframe
+* An iframe is like a little window
+that has been cut into your
+page — and in that window you
+can see another page. The term
+iframe is an abbreviation of inline
+frame.
+### Escape Characters
+* There are some characters that are used in
+and reserved by HTML code. (For example,** ©** ,**<**, **¥**  , ** etc **...... .)
+* If you want these
+characters to appear on your
+page you need to use the escape codes or
+entity references like (**© =  & copy;**).
+## HTML5 Layout
+### New Html5 Layout Elements
+* HTML5 introduces a new set of elements that allow you to divide up the
+parts of a page.
+* For example, the **header **sits
+inside a new **<header> **element,
+the navigation in a **<nav>**
+element, and the **articles **are in
+individual **<article>** elements.
+## Process & Design 
+### Who is the Site For?
+* Every website should be designed for the
+target audience—not just for yourself or the
+site owner. It is therefore very important to
+understand who your target audience is.
+###  Why People Visit YOUR Website ?
+* Now that you know who your visitors are, you
+need to consider why they are coming. While
+some people will simply chance across your
+website, most will visit for a specific reason.
+### What Information Your Visitors Need?
+* You know who is coming to your site and why
+they are coming, so now you need to work out
+what information they need in order to achieve
+their goals quickly and effectively.
+### How Often People Will Visit Your Site?\
+* Some sites benefit from being updated more
+frequently than others. Some information (such
+as news) may be constantly changing, while
+other content remains relatively static.
+###  * WireFrames
+* A wireframe is a simple sketch of the key
+information that needs to go on each page of a
+site. It shows the hierarchy of the information
+and how much space it might require.
+* By creating a wireframe you can
+ensure that all of the information
+that needs to be on a page is
+included.
+
+![WireFrame](https://www.freepik.com/blog/app/uploads/2019/05/how-use-wireframes-web-design-Cover-post-100.jpg)
+
