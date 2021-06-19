@@ -27,4 +27,4 @@
 
 | webpage      |  The link        |
 | -----------  | ----------- |
-| read21       | [link](read21.md)     |
+| class01       | [link](class01.md)     |
