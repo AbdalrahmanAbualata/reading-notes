@@ -157,4 +157,42 @@ included.
 
 ![WireFrame](https://www.freepik.com/blog/app/uploads/2019/05/how-use-wireframes-web-design-Cover-post-100.jpg)
 
+************************************************************************
+************************************************************************
 
+# JavaScript
+ * ** JavaScript allows you to make web pages more interactive by accessing and markup used in a web page while it is being viewed in the browser.** 
+ ## JavaScript benefits :
+ 1.  ** ACCESS CONTENT**: You can use JavaScript to select any
+element, attribute, or text from an
+HTML page.
+2. **MODIFY CONTENT**: You can use JavaScript to add
+elements, attributes, and text to the page, or remove them.
+3. **PROGRAM RULES**:You can specify a set of steps for
+the browser to follow (like a recipe),
+which allows it to access or change the
+content of a page.
+4. **REACT TO EVENTS**:You can specify that a script should run
+when a specific event has occurred.
+## WRITING A SCRIPT
+* To write a script, you need to first
+state your goal and then list the
+tasks that need to be completed in
+order to achieve it.
+* Start with the big picture of what
+you want to achieve, and break
+that down into smaller steps.
+   * 1: DEFINE THE GOAL.
+   * 2: DESIGN THE SCRIPT.
+   * 3: CODE EACH STEP.
+## HOW A BROWSER SEES A WEB PAGE In
+  1.  **RECEIVE A PAGE AS
+HTML CODE** .
+2. ** CREATE A MODEL OF
+THE PAGE AND STORE
+IT IN MEMORY**. 
+3.  **USE A RENDERING
+ENGINE TO SHOW THE
+PAGE ON SCREEN** .
+* All major browsers use a JavaScript interpreter to translate your
+instructions (in JavaScript) into instructions the computer can follow.
