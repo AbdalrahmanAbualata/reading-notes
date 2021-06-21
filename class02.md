@@ -53,3 +53,51 @@ using the **< hr />** tag.<hr/>
    <hr/>
 
 ## Introducing CSS
+### Understanding CSS: Thinking Inside the Box
+* The key to understanding how CSS works is to
+imagine that there is an invisible box around
+every HTML element.
+#### BLOCK & INLINE ELEMENTS
+* **Block** level elements look
+like they start on a new line.
+Examples include the < h1 >-
+< h6 >, < p > and < div > elements.
+* **Inline** elements flow within the
+text and do not start on a new
+line. Examples include < b >, < i >,
+< img >, < em > and < span >.
+
+### CSS Associates Style rules with HTML elements
+* CSS works by associating rules with HTML elements. These rules govern
+how the content of specified elements should be displayed. A CSS rule
+contains two parts: a selector and a declaration.
+* **Selectors :**
+      indicate which
+element the rule applies to.
+The same rule can apply to
+more than one element if you
+separate the element names
+with commas.
+* **Declarations:** 
+indicate how
+the elements referred to in
+the selector should be styled.
+Declarations are split into two
+parts (a property and a value),
+and are separated by a colon.
+### CSS Properties Affect How Elements Are Displayed
+* CSS declarations sit inside curly brackets and each is made up of two
+parts: a property and a value, separated by a colon. You can specify
+several properties in one declaration, each separated by a semi-colon.
+* **Properties** indicate the aspects
+of the element you want to
+change. For example, color, font,
+width, height and border.
+* **Values** specify the settings
+you want to use for the chosen
+properties. For example, if you
+want to specify a color property
+then the value is the color you
+want the text in these elements
+to be.
+

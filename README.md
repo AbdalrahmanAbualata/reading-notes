@@ -28,3 +28,4 @@
 | webpage      |  The link        |
 | -----------  | ----------- |
 | class01       | [link](class01.md)     |
+| class02     | [link](class02.md)     |
