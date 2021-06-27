@@ -32,3 +32,4 @@
 |   class03    | [link](class03.md)     |
 |   class04    | [link](class04.md)     |
 |   class05   | [link](class05.md)     |
+|   class06   | [link](class06.md)     |
