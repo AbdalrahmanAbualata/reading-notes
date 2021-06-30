@@ -35,3 +35,4 @@
 |   class06   | [link](class06.md)     |
 |   class07  | [link](class07.md)     |
 |   class08  | [link](class08.md)     |
+|   class09 | [link](class09.md)     |
