@@ -7,7 +7,7 @@
 
 ## Code 102 Reading Notes
 
-### Table of Contents:-
+### Table of Contents
 
 
 | webpage      |  The link        |
@@ -38,3 +38,4 @@
 |   class09 | [link](class09.md)     |
 |   class10 | [link](class10.md)     |
 |   class11 | [link](class11.md)     |
+|   class12 | [link](class12.md)     |
