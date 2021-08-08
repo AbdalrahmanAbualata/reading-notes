@@ -50,7 +50,7 @@
 | webpage      |  The link        |
 | -----------  | ----------- |
 | class01       | [link](class31.md)     |
-
+| class02     | [link](class32.md)     |
 
 
 
