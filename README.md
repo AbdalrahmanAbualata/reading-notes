@@ -56,6 +56,7 @@
 | class05  | [link](class35.md)     |
 | class06  | [link](class36.md)     |
 | class07  |   [link](class37.md)     |
+| class08  |   [link](class38.md)     |
 
 
 
