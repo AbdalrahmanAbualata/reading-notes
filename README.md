@@ -67,6 +67,7 @@
 
 ## Code 401 Reading Notes
 ### Table of Contents 
-| webpage      |  The link        |
+
+| webpage      |  The link |
 | -----------  | ----------- |
 | class01       | [link](read41.md) |
