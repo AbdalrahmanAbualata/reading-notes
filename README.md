@@ -71,3 +71,4 @@
 | webpage      |  The link |
 | -----------  | ----------- |
 | class01       | [link](read41.md) |
+| class02     | [link](read42.md) |
