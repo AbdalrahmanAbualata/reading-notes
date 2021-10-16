@@ -2,103 +2,69 @@
 # Java Basics
 _________________________________________
 
-## Variables 
+## Java is a programming language. ###
 
-types of java variables:
+### Java is used to develop mobile apps, web apps, desktop apps, games and much more. ###
 
-- Instance Variables
- their values are unique to each object.
- they are also known as 'non-static fields' which means that fields declared without the static keyword.
+- Object − Objects have states and behaviors. Example: A dog has states - color, name, breed as well as behavior such as wagging their tail, barking, eating. An object is an instance of a class.
 
- - Class Variables
- declared with the static modifier.
+- Class − A class can be defined as a template/blueprint that describes the behavior/state that the object of its type supports.
 
- - Local Variables 
-a method will often store its temporary state in local variables
+- Methods − A method is basically a behavior. A class can contain many methods. It is in methods where the logics are written, data is manipulated and all the actions are executed.
 
-local variables are only visible to the methods in which they are declared, they are not accessible from the rest of the class.
+### Variables:
 
-- Parameters 
+- Instance Variables − Each object has its unique set of instance variables. An object's state is created by the values assigned to these instance variables.
 
-the signature for the main method is public static void main(String[] args).
- the args variable is the parameter to this method.
-
- parameters are always classified as "variables" not "fields".
-
-
- > naming 
-
- - Variable names are case-sensitive
- If the name you choose consists of only one word, spell that word in all lowercase letters. If it consists of more than one word, capitalize the first letter of each subsequent word.
-
- -  A variable's name can be any legal identifier
-  — an unlimited-length sequence of Unicode letters and digits,
-  - beginning with a letter,
-  -  beginning with the dollar sign "$", or the underscore character "_".
-  
-   The convention, however, is to always begin your variable names with a letter, not "$" or "_". Additionally, the dollar sign character,
-
-_________________________________________________
+- Class Variables (Static Fields) − the values of this varibles it will not change ever ,its one value for each varible .
 
 
    ## Operators
-   Operators are special symbols that perform specific operations on one, two, or three operands, and then return a result.
-
-
-   ![](https://ucarecdn.com/4860994e-105d-456b-a98e-f3c51854830f/-/crop/478x539/214,123/-/preview/)
-
-
-Note:  All binary operators except for the assignment operators are evaluated from left to right; assignment operators are evaluated right to left.
-
-
-
+   In mathematics and sometimes in computer programming, an operator is a character that represents an action, as for example x is an arithmetic operator that represents multiplication and + represents addition . In computer programs, one of the most familiar sets of operators, the Boolean operators, is used to work with true/false values. Boolean operators include AND, OR, NOt
+   [read more ](https://whatis.techtarget.com/definition/operator).
 ________________________________________________
 
 ## Expressions, Statements, and Blocks
 
 ## Expressions
 
-An expression is a construct made up of variables, operators, and method invocations, which are constructed according to the syntax of the language, that evaluates to a single value
+are lines of code that contain variables and operators, work together to bring out a result, for example:
 
-The Java programming language allows you to construct compound expressions from various smaller expressions as long as the data type required by one part of the expression matches the data type of the other.
+1 + 2
 
+this is an expression that uses the operator "+" to generate a new value.
 
 ## Statements
 
- A statement forms a complete unit of execution.  Expressions can be made into a statement by terminating the expression with a semicolon (;).
+ are a complete line of code than when we run it, we can have a final result and we alwa send it with a semicolon ";"
 
-types of statements:
-
- 1. expression statements
-  example, 
-- Assignment expressions
-- Any use of ++ or --
-- Method invocations
-- Object creation expressions
-
-2. declaration statements
-3. control flow statements
-
-
-
-
+int result = 1 + 2;
 ## Blocks
 
-A block is a group of zero or more statements between balanced braces and can be used anywhere a single statement is allowed. 
+ is a group of more than one statements between balanced braces.
+ example:-
 
+ class main {
+public static void main(String[] args) {
+int num = 10;
+if (num >10 ) { // begin block 1
+System.out.println("hello");
+} // end block one
+else { // begin block 2
+System.out.println("bye");
+} // end block 2
+}
+}
 
-_________________________________________
+## compile code
+- the computer can't understand any languge just can understand the 0,1 languge so we need to  convert the source code into a language that the computer understands (0,1 ).
 
-## Control Flow Statements
+* in case of java language the code not converting to the machine language directly but it converting to another language its bytecode . bytecode is readable by JVM(Java Virtual Machine) .
 
-it breaks up the flow of execution by employing decision making, looping, and branching, enabling your program to conditionally execute particular blocks of code. This section describes the decision-making statements (if-then, if-then-else, switch), the looping statements (for, while, do-while), and the branching statements (break, continue, return) supported by the Java programming language.
+### Compiling a Java program is very easy after JDK installation. Following are the steps 
 
+- Open a command prompt window and go to the directory where you saved the java program. Assume it's C:\.
 
+- Type 'javac MyFirstJavaProgram.java' and press enter to compile your code. If there are no errors in your code, the command prompt will take you to the next line (Assumption: The path variable is set).
+__________________________________________________________________
 
-
-___________________________________________________
-
-
- ## compile a code
-
- converting the code into a language that the computer understands 
