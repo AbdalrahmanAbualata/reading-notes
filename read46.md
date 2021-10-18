@@ -1,42 +1,38 @@
 # Inheritance and Interfaces
 
 - **Class** − A class can be defined as a template/blueprint that describes the behavior/state that the object of its type supports.
-- **Object** − Objects have states and behaviors. Example: A car has states - color, module, manufacturing year as well as behavior such as acceleration, braking . An object is an instance of a class.
+* class declarations can include: Modifiers such as (public, private,protacted), class name,class body (that contain the template of the properties and methods).
+
+- **Object** − Objects have states and behaviors. Example: A car has states - color, module, manufacturing year as well as behavior such as acceleration, braking . An object is an instance of a class(we are using the constructor to create a new instance of the class that named obj).
 
 
 ## Inheritance :-
+* Object-oriented programing allows classes(sub class) to inherit proparties(state) and behavior(methode) from other classes(super class) and after inherit we can add for every (sub class) his own proparties and methodes withe the ability to use the extended (proparties and methodes) by the sub clASSS .
+* this make our code reusable and stronger .
 
-* Inheritance in Java is a mechanism in which one object acquires all the properties and behaviors of a parent object. It is an important part of OOPs (Object Oriented programming system).
-
-* The idea behind inheritance in Java is that you can create new classes that are built upon existing classes. When you inherit from an existing class, you can reuse methods and fields of the parent class. Moreover, you can add new methods and fields in your current class also.
-
-## Why use inheritance in java:-
-* For Method Overriding.
-* For Code Reusability.
-
+* there is a type of class named abstract class that we can extend from it but we can't constract an object using the same class .
 ## Terms used in Inheritance:-
 
-* **Class:** A class is a group of objects which have common properties. It is a template or blueprint from which objects are created.
-* **Sub Class/Child Class:** Subclass is a class which inherits the other class. It is also called a derived class, extended class, or child class.
-* **Super Class/Parent Class:** Superclass is the class from where a subclass inherits the features. It is also called a base class or a parent class.
-* **Reusability:** As the name specifies, reusability is a mechanism which facilitates you to reuse the fields and methods of the existing class when you create a new class.
+* **Class:** : as we define in the class section above .
+* **Sub Class/Child Class:** is the class that take his properties and methods from another class (super class) and after that itcan add his own properties and methods.
+* **Super Class/Parent Class:**subclass inherits properties and methods from this class (super class).
 
 
-## Interface in Java :-
-* An interface in Java is a blueprint of a class. It has static constants and abstract methods.
-* you can say that interfaces can have abstract methods and variables. It cannot have a method body.
+## Interface in Java :- 
+* An interface in Java is a blueprint of a class.that contain just constants varablies , static methods and  method signatures but without the body of the method.
+* you can say that interfaces can have abstract methods and constants variables.
 
 ## Java Interface Example :-
 //Interface declaration: by first user  
 interface Drawable{  
-void draw();  
+void draw();          // just contain the name of the method without the body of it .
 }  
 //Implementation: by second user  
 class Rectangle implements Drawable{  
-public void draw(){System.out.println("drawing rectangle");}  
+public void draw(){System.out.println("drawing rectangle");}    // her after implementation we add the body of the method .
 }  
 class Circle implements Drawable{  
-public void draw(){System.out.println("drawing circle");}  
+public void draw(){System.out.println("drawing circle");}  // her after implementation we add the same body of the method but with different implementation.
 }  
 //Using interface: by third user  
 class TestInterface1{  
