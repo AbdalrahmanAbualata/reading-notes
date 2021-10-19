@@ -76,3 +76,5 @@
 | class04    | [link](read44.md) |
 | class05   | [link](read45.md) |
 | class06   | [link](read46.md) |
+| class08   | [link](read48.md) |
+| class09   | [link](read49.md) |
