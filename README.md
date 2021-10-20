@@ -78,3 +78,4 @@
 | class06   | [link](read46.md) |
 | class08   | [link](read48.md) |
 | class09   | [link](read49.md) |
+| class10   | [link](read50.md) |
