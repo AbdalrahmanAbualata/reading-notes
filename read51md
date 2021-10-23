@@ -1,0 +1,45 @@
+# Spring MVC
+- MVC stands for => Model View Controller.
+- a Java framework for building web applications .
+
+## How it works:
+- Create a Web Controller
+- create HTML page to show our data
+
+## Create a Web Controller
+* Controller: A controller contains the  logic of an application.It prepares a model map with data and selecting a view to be rendered.
+* view : every thing the html contain and we want to show or render in our web applecation .
+* Controller control HTTP requests.
+* we are using **RequestParam** to assigne the value from query to varibles or parameter for the method we have in the controller.
+* when we implement our method the Thymeleaf (is a Java library) transfer  to template files in order to display data text produced by our applications .
+
+* in another word after we are writing our code and set the parameters for our method in controler if we implement our applicatin the Thymeleaf will create a template that look like Html .
+
+## Spring Boot Devtools
+* its like nodemon in node.js it let us testing our code without restert our applecation every time .
+## Build an executable JAR
+* you can build your application using Gradle or  JAR file .
+## Add a Home Page
+* in spring boot we can use html ,js and css for Static resources 
+so we can create HTML page for our home page .
+
+
+![scanner](https://www.javatpoint.com/images/sp/mvc.jpg)
+
+
+
+
+## Spring MVC and Thymeleaf
+### Using Spring MVC will require:
+
+1- Spring model attributes:first we need to add attribute to Model .
+
+2- Request parameters:send the parameters to the server from the frontend.
+
+3- Session attributes:
+add mySessionAttribute
+
+4- ServletContext attributes
+The ServletContext attributes are shared between requests and sessions. In order to access ServletContext attributes in Thymeleaf you can use the #servletContext.
+
+5- Spring beans.
