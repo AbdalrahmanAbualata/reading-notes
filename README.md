@@ -80,3 +80,4 @@
 | class09   | [link](read49.md) |
 | class10   | [link](read50.md) |
 | class11   | [link](read51.md) |
+| class12   | [link](read52.md) |
