@@ -95,4 +95,4 @@
 | class31  | [link](read31.md) |
 | class32  | [link](read32.md) |
 | class33  | [link](read33.md) |
-| class34  | [link](read34.md) |
+| read34   | [link](read34.md)|

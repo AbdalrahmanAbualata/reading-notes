@@ -6,10 +6,12 @@
 
 Developers who distribute their app through Google Play are required to use Google Play's billing system to sell in-app content. Items that require developers to use Google Play's billing system include the following:
 
+
 * Virtual game products
 * App functionality or content
 * Subscription services
 * Cloud software products
+
 
 ***Sell physical goods or services with Google Pay***
 
